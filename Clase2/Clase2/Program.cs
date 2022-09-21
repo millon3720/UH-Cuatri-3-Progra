@@ -10,6 +10,7 @@ namespace Clase2
     {
         static void Main(string[] args)
         {
+            
         }
     }
 }

@@ -1,0 +1,8 @@
+G:\Otros ordenadores\Mi PC\Universidad Hispanoamericana\Cuatri #3\Progra Cuatri #3\UH-Cuatri--3\Clase2\Clase2\bin\Debug\Clase2.exe.config
+G:\Otros ordenadores\Mi PC\Universidad Hispanoamericana\Cuatri #3\Progra Cuatri #3\UH-Cuatri--3\Clase2\Clase2\bin\Debug\Clase2.exe
+G:\Otros ordenadores\Mi PC\Universidad Hispanoamericana\Cuatri #3\Progra Cuatri #3\UH-Cuatri--3\Clase2\Clase2\bin\Debug\Clase2.pdb
+G:\Otros ordenadores\Mi PC\Universidad Hispanoamericana\Cuatri #3\Progra Cuatri #3\UH-Cuatri--3\Clase2\Clase2\obj\Debug\Clase2.csproj.AssemblyReference.cache
+G:\Otros ordenadores\Mi PC\Universidad Hispanoamericana\Cuatri #3\Progra Cuatri #3\UH-Cuatri--3\Clase2\Clase2\obj\Debug\Clase2.csproj.SuggestedBindingRedirects.cache
+G:\Otros ordenadores\Mi PC\Universidad Hispanoamericana\Cuatri #3\Progra Cuatri #3\UH-Cuatri--3\Clase2\Clase2\obj\Debug\Clase2.csproj.CoreCompileInputs.cache
+G:\Otros ordenadores\Mi PC\Universidad Hispanoamericana\Cuatri #3\Progra Cuatri #3\UH-Cuatri--3\Clase2\Clase2\obj\Debug\Clase2.exe
+G:\Otros ordenadores\Mi PC\Universidad Hispanoamericana\Cuatri #3\Progra Cuatri #3\UH-Cuatri--3\Clase2\Clase2\obj\Debug\Clase2.pdb
