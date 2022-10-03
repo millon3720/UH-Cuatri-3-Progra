@@ -1,0 +1,8 @@
+C:\Users\josed\OneDrive\Escritorio\Universidad-Hispanoamericana\Cuatri #3\UH-Cuatri-3-Progra\Tarea2\Tarea2\bin\Debug\Tarea2.exe.config
+C:\Users\josed\OneDrive\Escritorio\Universidad-Hispanoamericana\Cuatri #3\UH-Cuatri-3-Progra\Tarea2\Tarea2\bin\Debug\Tarea2.exe
+C:\Users\josed\OneDrive\Escritorio\Universidad-Hispanoamericana\Cuatri #3\UH-Cuatri-3-Progra\Tarea2\Tarea2\bin\Debug\Tarea2.pdb
+C:\Users\josed\OneDrive\Escritorio\Universidad-Hispanoamericana\Cuatri #3\UH-Cuatri-3-Progra\Tarea2\Tarea2\obj\Debug\Tarea2.csproj.AssemblyReference.cache
+C:\Users\josed\OneDrive\Escritorio\Universidad-Hispanoamericana\Cuatri #3\UH-Cuatri-3-Progra\Tarea2\Tarea2\obj\Debug\Tarea2.csproj.SuggestedBindingRedirects.cache
+C:\Users\josed\OneDrive\Escritorio\Universidad-Hispanoamericana\Cuatri #3\UH-Cuatri-3-Progra\Tarea2\Tarea2\obj\Debug\Tarea2.csproj.CoreCompileInputs.cache
+C:\Users\josed\OneDrive\Escritorio\Universidad-Hispanoamericana\Cuatri #3\UH-Cuatri-3-Progra\Tarea2\Tarea2\obj\Debug\Tarea2.exe
+C:\Users\josed\OneDrive\Escritorio\Universidad-Hispanoamericana\Cuatri #3\UH-Cuatri-3-Progra\Tarea2\Tarea2\obj\Debug\Tarea2.pdb
